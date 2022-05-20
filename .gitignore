@@ -1,0 +1,4 @@
+.git/
+.venv/
+.senhas
+arquivo_que_nao_pode.txt
